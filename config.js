@@ -3,16 +3,14 @@ var config = {
     // Try not to exceed 15 characters per sentence, otherwise the display effect may not be very good
     // Here, the last comma at the end of each sentence must be in English!! Very important
     texts: [
-        "Hey, Senorita",
-        "Wishing you the Happiest Birthday",
-        "May this be the brightest day",
-        "Happy 28th Birthday🎉🎉🎉🎉🎉",
-        "Make a wish :D",
-        "Yayyyyyyyyyyyyyyyyyyyyy",
-        "Sunooooo...",
-        "Jiyo, Hanso, Muskarao",
-        "Kya Pata",
-        "Kal Ho Na Ho"
+        "يا درة الجميلة",
+        "أتمنى لكم عيد ميلاد سعيد",
+        "متمنيًا أن يكون هذا هو ألمع الأيام",
+        "عيد ميلاد سعيد بمناسبة الخامس والعشرين 🎉🎉🎉🎉🎉",
+        "أطلب أمنية! 😁😁",
+        "أتمنى لك سنة رائعة مليئة بالحب والفرح والاحتفالات",
+        "أتمنى أن يباركك الله بأفضل الصحة",
+        "وأن تحقق كل ما تتمناه في حياتك."
     ],
     /**
       * imgs can be left blank, but if you want to fill in, you must follow the format below
@@ -24,6 +22,6 @@ var config = {
       * Tip: It is better to use a square or close to a square for the picture, it looks better
       */
     imgs: {
-        "item": "./imgs/img.jpg",
+        // "item": "./imgs/img.jpg",
     },
 };
